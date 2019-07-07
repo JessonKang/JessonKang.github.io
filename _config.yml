@@ -6,8 +6,8 @@
 # Site
 title: 喜欢吃鱼
 subtitle:
-description:
-author: John Doe
+description: To be a better man 
+author: Jesson Kang
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 #language: en
 language: zh-Hans
@@ -374,7 +374,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: b729ef2b7dbe37ff17dae24846d170fc
 
 # Duoshuo ShortName
 #duoshuo_shortname:
